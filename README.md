@@ -3,7 +3,10 @@ My first website, created as a mock for a friends business. Maybe one day I can 
 
 https://kieranhartley.github.io/Soryal-Wine-Cosultancy/
 
-- Featuring one page parallax scrolling.
+Featuring:
+
+- Minimal design
+- One page parallax scrolling.
 
 Need to add:
 - Contact Form
